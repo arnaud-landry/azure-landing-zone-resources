@@ -1,15 +1,12 @@
 # Azure Landing Zones Overview
 
 John Savill's Technical Training 
-
 [![Watch the video](https://img.youtube.com/vi/mluS8ovuBKg/hqdefault.jpg)](https://youtu.be/mluS8ovuBKg)  
 
 Introduction to Azure Landing Zones Bicep 
-
 [![Watch the video](https://img.youtube.com/vi/-pZNrH1GOxs/hqdefault.jpg)](https://youtu.be/-pZNrH1GOxs)
 
 Choose the best Azure landing zone option 
-
 [![Watch the video](https://img.youtube.com/vi/vUVY6j-_n-w/hqdefault.jpg)](https://youtu.be/vUVY6j-_n-w)
 
 Resources 
