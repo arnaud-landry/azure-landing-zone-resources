@@ -24,9 +24,10 @@ Resources
 ## Terraform 
 - https://registry.terraform.io/modules/Azure/caf-enterprise-scale/azurerm/latest
 - https://github.com/Azure/terraform-azurerm-caf-enterprise-scale
+- https://github.com/aztfmod/terraform-azurerm-caf
 
 ## Bicep
-https://github.com/Azure/ALZ-Bicep/blob/main/docs/wiki/Home.md
+- https://github.com/Azure/ALZ-Bicep/blob/main/docs/wiki/Home.md
 
 ## Blueprint
 - Foundation : https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/foundation-blueprint
@@ -40,8 +41,7 @@ https://github.com/Azure/ALZ-Bicep/blob/main/docs/wiki/Home.md
 
 ![DINE Pahses](https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/ready/enterprise-scale/media/dine-phases.png)
 
-https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/ready/enterprise-scale/dine-guidance
-
+- https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/ready/enterprise-scale/dine-guidance
 
 Policies included in Azure landing zones reference implementations
 
@@ -54,7 +54,7 @@ Policies included in Azure landing zones reference implementations
 
 Azure landing zones User Guide : https://github.com/Azure/Enterprise-Scale/wiki
 
-https://github.com/Azure/Enterprise-Scale
+- https://github.com/Azure/Enterprise-Scale
 
 The Enterprise-Scale architecture is modular by design and allows customers to start with foundational Landing Zones that support their application portfolios, regardless of whether the applications are being migrated or are newly developed and deployed to Azure. The architecture can scale alongside the customer's business requirements regardless of scale point. In this repository we are providing the following five templates representing different scenarios composed using ARM templates.
 
@@ -67,20 +67,20 @@ The Enterprise-Scale architecture is modular by design and allows customers to s
 | Azure Gov | Reference implementation that can be deployed to Azure gov and includes all options in a converged experience | [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#blade/Microsoft_Azure_CreateUIDef/CustomDeploymentBlade/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FEnterprise-Scale%2Fmain%2FeslzArm%2FeslzArm.json/uiFormDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FEnterprise-Scale%2Fmain%2FeslzArm%2Ffairfaxeslz-portal.json) | N/A
 
 ## Azure landing zone for SCCA-compliant organizations.
-https://github.com/Azure/missionlz
+- https://github.com/Azure/missionlz
 
 ## Hub and Spoke Landing Zone 
 - https://github.com/adelagar/HubSpokeLandingZone
 - https://github.com/kumarvna/terraform-azurerm-caf-virtual-network-hub
-- 
+
 ## Data Landing Zone of the Data Management & Analytics Scenario (former Enterprise-Scale Analytics).
-https://github.com/Azure/data-landing-zone
+- https://github.com/Azure/data-landing-zone
 
 ## AKS (Kubernetes) Landing Zone Accelerator
-https://github.com/Azure/AKS-Landing-Zone-Accelerator
+- https://github.com/Azure/AKS-Landing-Zone-Accelerator
 
 ## ARO (OpenShift) Landing Zone Accelerator
-https://github.com/Azure/ARO-Landing-Zone-Accelerator
+- https://github.com/Azure/ARO-Landing-Zone-Accelerator
 
 ## Azure Arc landing zone accelerator for hybrid and multicloud
-https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone
+- https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone
