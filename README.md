@@ -52,8 +52,10 @@ Policies included in Azure landing zones reference implementations
 
 ## Microsoft Enterprise-Scale References Architectures
 
-Azure landing zones User Guide : https://github.com/Azure/Enterprise-Scale/wiki
+User Guide
+- https://github.com/Azure/Enterprise-Scale/wiki
 
+Architectures
 - https://github.com/Azure/Enterprise-Scale
 
 The Enterprise-Scale architecture is modular by design and allows customers to start with foundational Landing Zones that support their application portfolios, regardless of whether the applications are being migrated or are newly developed and deployed to Azure. The architecture can scale alongside the customer's business requirements regardless of scale point. In this repository we are providing the following five templates representing different scenarios composed using ARM templates.
