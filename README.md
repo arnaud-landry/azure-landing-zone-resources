@@ -36,10 +36,23 @@ https://github.com/Azure/ALZ-Bicep/blob/main/docs/wiki/Home.md
 
 ![Animated image showing the modularity of Azure landing zones](https://github.com/Azure/Enterprise-Scale/blob/main/docs/wiki/media/ESLZ.gif?raw=true)
 
+## Adopt policy-driven guardrails
+
+![DINE Pahses](https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/ready/enterprise-scale/media/dine-phases.png)
+
+https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/ready/enterprise-scale/dine-guidance
+
+
+Policies included in Azure landing zones reference implementations
+
+![Policies and Initiatives](https://github.com/Azure/Enterprise-Scale/wiki/media/MgmtGroups_Policies_v0.1.jpg)
+
+- https://github.com/Azure/Enterprise-Scale/wiki/ALZ-Policies
+- https://www.azadvertizer.net/index.html
+
 ## Microsoft Enterprise-Scale References Architectures
 
 Azure landing zones User Guide : https://github.com/Azure/Enterprise-Scale/wiki
-
 
 https://github.com/Azure/Enterprise-Scale
 
