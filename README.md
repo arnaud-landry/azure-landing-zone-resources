@@ -38,6 +38,9 @@ https://github.com/Azure/ALZ-Bicep/blob/main/docs/wiki/Home.md
 
 ## Microsoft Enterprise-Scale References Architectures
 
+Azure landing zones User Guide : https://github.com/Azure/Enterprise-Scale/wiki
+
+
 https://github.com/Azure/Enterprise-Scale
 
 The Enterprise-Scale architecture is modular by design and allows customers to start with foundational Landing Zones that support their application portfolios, regardless of whether the applications are being migrated or are newly developed and deployed to Azure. The architecture can scale alongside the customer's business requirements regardless of scale point. In this repository we are providing the following five templates representing different scenarios composed using ARM templates.
@@ -54,8 +57,9 @@ The Enterprise-Scale architecture is modular by design and allows customers to s
 https://github.com/Azure/missionlz
 
 ## Hub and Spoke Landing Zone 
-https://github.com/adelagar/HubSpokeLandingZone
-
+- https://github.com/adelagar/HubSpokeLandingZone
+- https://github.com/kumarvna/terraform-azurerm-caf-virtual-network-hub
+- 
 ## Data Landing Zone of the Data Management & Analytics Scenario (former Enterprise-Scale Analytics).
 https://github.com/Azure/data-landing-zone
 
