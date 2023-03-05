@@ -59,8 +59,11 @@ https://github.com/adelagar/HubSpokeLandingZone
 ## Data Landing Zone of the Data Management & Analytics Scenario (former Enterprise-Scale Analytics).
 https://github.com/Azure/data-landing-zone
 
-## AKS Landing Zone Accelerator
+## AKS (Kubernetes) Landing Zone Accelerator
 https://github.com/Azure/AKS-Landing-Zone-Accelerator
+
+## ARO (OpenShift) Landing Zone Accelerator
+https://github.com/Azure/ARO-Landing-Zone-Accelerator
 
 ## Azure Arc landing zone accelerator for hybrid and multicloud
 https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone
