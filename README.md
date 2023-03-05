@@ -98,6 +98,8 @@ https://github.com/Azure/apim-landing-zone-accelerator
 
 # Data product
 - https://github.com/Azure/data-product-batch
+- https://github.com/Azure/data-product-analytics
+- https://github.com/Azure/data-product-streaming
 
 # Azure Arc landing zone accelerator for hybrid and multicloud
 - https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone
