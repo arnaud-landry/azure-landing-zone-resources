@@ -22,7 +22,7 @@ Resources
 
 # References Architectures
 
-![Animated image showing the modularity of Azure landing zones](./docs/wiki/media/ESLZ.gif)
+![Animated image showing the modularity of Azure landing zones](https://github.com/Azure/Enterprise-Scale/blob/main/docs/wiki/media/ESLZ.gif?raw=true)
 
 ## Microsoft Enterprise-Scale References Architectures
 
