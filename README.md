@@ -1,4 +1,21 @@
+# Azure Landing Zones Overview
+John Savill's Technical Training : [![Watch the video](https://img.youtube.com/vi/mluS8ovuBKg/hqdefault.jpg)](https://youtu.be/mluS8ovuBKg)  
+
+Introduction to Azure Landing Zones Bicep : [![Watch the video](https://img.youtube.com/vi/pZNrH1GOxs/hqdefault.jpg)](https://youtu.be/pZNrH1GOxs)
+
+Choose the best Azure landing zone option : [![Watch the video](https://img.youtube.com/vi/vUVY6j-_n-w/hqdefault.jpg)](https://youtu.be/vUVY6j-_n-w)
+
+Resources 
+- What is an Azure landing zone? https://aka.ms/azenable/94/04
+- Azure landing zones - Bicep modules design considerations https://aka.ms/azenable/94/03
+- Azure Landing Zones Bicep GitHub repo  https://aka.ms/alz/bicep 
+- Azure Landing Zones Bicep Deployment Flow https://aka.ms/azenable/94/01 
+- Azure Landing Zones Bicep Wiki   https://aka.ms/azenable/94/02 
+
+
 # References Architectures
+
+![Animated image showing the modularity of Azure landing zones](./docs/wiki/media/ESLZ.gif)
 
 ## Microsoft Enterprise-Scale References Architectures
 
